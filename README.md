@@ -1,16 +1,16 @@
-## Hi there 👋
+### Aymane Senhaji
 
-<!--
-**Aymane19229/Aymane19229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and run [ThumbnailMaker](https://www.thumbnailmaker.so) — an AI
+YouTube thumbnail generator. Next.js, Supabase, Gemini, Polar. Solo, from Rabat.
 
-Here are some ideas to get you started:
+Two parts of it are free and need no account:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Thumbnail viewer](https://www.thumbnailmaker.so/tools/youtube-thumbnail-viewer)
+  — see any video's thumbnail at real feed size
+- [Thumbnail text editor](https://www.thumbnailmaker.so/tools/thumbnail-text-editor)
+
+I write up what actually breaks on [the blog](https://www.thumbnailmaker.so/blog):
+billing webhooks that never fired, a layout shift nobody had measured,
+picking keywords a DR 0 domain can realistically win.
+
+The repos below are older coursework. The current one is private.
